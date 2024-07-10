@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@truffle/compile-solidity": "^6.0.79",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "dotenv": "^16.4.5",
+    "solc": "^0.5.16",
+    "truffle-plugin-verify": "^0.6.7"
+  }
+}
